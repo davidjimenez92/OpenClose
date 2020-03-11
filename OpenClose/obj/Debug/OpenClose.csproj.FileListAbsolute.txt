@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Solution1\OpenClose\bin\Debug\OpenClose.exe.config
+C:\Users\usuario\source\repos\Solution1\OpenClose\bin\Debug\OpenClose.exe
+C:\Users\usuario\source\repos\Solution1\OpenClose\bin\Debug\OpenClose.pdb
+C:\Users\usuario\source\repos\Solution1\OpenClose\obj\Debug\OpenClose.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Solution1\OpenClose\obj\Debug\OpenClose.exe
+C:\Users\usuario\source\repos\Solution1\OpenClose\obj\Debug\OpenClose.pdb
