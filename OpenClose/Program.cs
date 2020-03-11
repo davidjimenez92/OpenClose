@@ -6,8 +6,8 @@ namespace OpenClose
     {
         static void Main(string[] args)
         {
-            Karateka karate = new Karateka();
-            Taekwondo taekwondo = new Taekwondo();
+            Person karate = new Karateka();
+            Person taekwondo = new Taekwondo();
 
             karate.Nombre = "Paco";
             karate.Edad = 19;
